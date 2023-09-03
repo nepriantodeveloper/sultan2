@@ -1,0 +1,7 @@
+{
+  "name": "sultan2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
